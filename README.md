@@ -1,1 +1,1 @@
-# ProjetoPraticoPy
+Neste projeto, ao revisar conceitos dos fundamentos de Python, foi passado um desafio para desenvolver um mini sistema bancário utilizando somente a parte fundamental e procedural da linguagem, sem a utilização de funções ou moduladores.
